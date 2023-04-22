@@ -14,7 +14,7 @@
   
 - Core Team Member at **TensorFlow User Groups Durg.**
   
-- Content Lead at *HackReboot BITD.* 
+- Content Lead at **HackReboot BITD.** 
   
 - **Organized and Volunteered at 15+ events including sessions, conferences and hackathons.**
 
