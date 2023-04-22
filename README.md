@@ -1,9 +1,23 @@
 - 👋 Hi, I’m Poorva Diwan.
-- :rosette: I'm a UI/UX designer navigating ways to express myself via design.
-- :leaves: I'm learing Frontend Development along the way!!
-- 🌱 I’m proficient in C and Java - did Data Structures and Algorithms in Java.
-- 💞️ Community Enthusiast - my journey in tech started through communities, it brings out shades of my management and peoples skills.
+- :rosette: I'm a `UI/UX designer` - navigating ways to express myself via design.
+- :leaves: I'm learing `Frontend Development` along the way!!
+- 🌱 I’m proficient in C and Java - did `Data Structures and Algorithms` in Java.
+- 💞️ Community Enthusiast - my journey in tech started through `Communities`, it brings out shades of my skills in management and people.
 - ✍️ I'm a Content Writer!! So give my blog a shot at -  https://medium.com/@poorva_diwan07.
+
+<h3><b> Looking for collaborations in projects which would help me upskill and grow!! </b></h3>
+
+<h2>## Volunteering and Community Experiences-</h2>
+<p>
+  
+- Operations Lead at **Google Developer Students Club.**
+  
+- Core Team Member at **TensorFlow User Groups Durg.**
+  
+- Content Lead at *HackReboot BITD.* 
+  
+- **Organized and Volunteered at 15+ events including sessions, conferences and hackathons.**
+
 <!---
 poorvadiwan/poorvadiwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
