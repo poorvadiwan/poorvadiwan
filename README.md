@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Poorva Diwan.
-- 🌱 I’m proficient in C and Java; and right now I am learning Data Structures and Algorithms in Java.
-- 💞️ It was pretty recent that I developed interest in communities, and Open Source.
-- ✍️ I am a Content writter too, and I staring off with Technical Blogging. Give it a shot at https://medium.com/@poorva_diwan07.
+- :rosette: I'm a UI/UX designer navigating ways to express myself via design.
+- :leaves: I'm learing Frontend Development along the way!!
+- 🌱 I’m proficient in C and Java - did Data Structures and Algorithms in Java.
+- 💞️ Community Enthusiast - my journey in tech started through communities, it brings out shades of my management and peoples skills.
+- ✍️ I'm a Content Writer!! So give my blog a shot at -  https://medium.com/@poorva_diwan07.
 <!---
 poorvadiwan/poorvadiwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
